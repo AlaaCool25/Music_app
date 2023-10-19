@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+
+#For
+{
+    background-color: rgb(1, 20, 20);
+}
+
+#my
+{
+    color: aqua;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mother
+{
+    color: deeppink;
+    font-size: 15px;
+}
+
+#I
+{
+    color: darkviolet;
+    font-size: 25px;
+}
+
+#do_this
+{
+    background-color: black;
+    border: 5px, aquamarine;
+    border-radius: 20px;
+}
